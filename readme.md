@@ -2,6 +2,7 @@
 ## Clone this repo
 ```bash
 git clone https://github.com/elliotkantor/quiz-generation-web.git
+cd quiz-generation-web
 ```
 ## Install requirements
 ```bash
